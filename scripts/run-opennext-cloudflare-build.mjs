@@ -1,0 +1,173 @@
+#!/usr/bin/env node
+
+import { spawn } from "node:child_process";
+import fs from "node:fs";
+import path from "node:path";
+
+const DEFAULT_SITE_URLS = {
+  production: "https://songshare.example.com",
+  test: "https://test.songshare.example.com",
+  free: "https://songshare.example.com",
+};
+const CF_BUILD_OUTPUT_DIR = ".cf-build";
+const SHELL_SITE_URL = process.env.SITE_URL;
+const SHELL_PUBLIC_SITE_URL = process.env.NEXT_PUBLIC_SITE_URL;
+
+function loadLocalEnvFiles() {
+  for (const file of [".env.local", ".env"]) {
+    try {
+      process.loadEnvFile(file);
+    } catch {
+      // ignore missing env files
+    }
+  }
+}
+
+function readFlag(name) {
+  const exact = `--${name}`;
+  const prefix = `${exact}=`;
+  for (let index = 0; index < process.argv.length; index += 1) {
+    const arg = process.argv[index];
+    if (arg === exact) {
+      return process.argv[index + 1] ?? null;
+    }
+    if (arg.startsWith(prefix)) {
+      return arg.slice(prefix.length) || null;
+    }
+  }
+  return null;
+}
+
+function resolveTargetEnv() {
+  const profile = readFlag("profile");
+  if (profile === "free") {
+    return "free";
+  }
+  const envName = readFlag("env");
+  return envName === "test" ? "test" : "production";
+}
+
+function resolveSiteUrl(targetEnv) {
+  const explicitSiteUrl =
+    readFlag("site-url") ??
+    SHELL_SITE_URL ??
+    SHELL_PUBLIC_SITE_URL;
+
+  if (explicitSiteUrl) {
+    return explicitSiteUrl;
+  }
+
+  return DEFAULT_SITE_URLS[targetEnv];
+}
+
+function run(command, args, env) {
+  return new Promise((resolve, reject) => {
+    const child = spawn(command, args, {
+      stdio: "inherit",
+      shell: true,
+      env,
+    });
+
+    child.on("exit", (code, signal) => {
+      if (signal) {
+        reject(new Error(`command exited via signal: ${signal}`));
+        return;
+      }
+      resolve(code ?? 0);
+    });
+    child.on("error", reject);
+  });
+}
+
+function syncDirectoryContents(sourceDir, targetDir) {
+  if (!fs.existsSync(sourceDir)) {
+    return;
+  }
+
+  fs.mkdirSync(targetDir, { recursive: true });
+
+  for (const entry of fs.readdirSync(sourceDir, { withFileTypes: true })) {
+    const sourcePath = path.join(sourceDir, entry.name);
+    const targetPath = path.join(targetDir, entry.name);
+
+    fs.rmSync(targetPath, { recursive: true, force: true });
+    fs.cpSync(sourcePath, targetPath, { recursive: true });
+  }
+}
+
+function syncNestedServerFunctionBuildOutputs() {
+  const serverFunctionsDir = path.join(
+    process.cwd(),
+    CF_BUILD_OUTPUT_DIR,
+    ".open-next",
+    "server-functions"
+  );
+
+  if (!fs.existsSync(serverFunctionsDir)) {
+    return;
+  }
+
+  for (const entry of fs.readdirSync(serverFunctionsDir, { withFileTypes: true })) {
+    if (!entry.isDirectory()) {
+      continue;
+    }
+
+    const functionDir = path.join(serverFunctionsDir, entry.name);
+    const nestedBuildDir = path.join(functionDir, CF_BUILD_OUTPUT_DIR);
+    syncDirectoryContents(nestedBuildDir, functionDir);
+  }
+}
+
+async function main() {
+  loadLocalEnvFiles();
+
+  const targetEnv = resolveTargetEnv();
+  const siteUrl = resolveSiteUrl(targetEnv);
+  const args = ["build"];
+  const configPath = readFlag("config");
+
+  if (!siteUrl) {
+    console.error(
+      "[cf:build] missing site URL. Set SITE_URL/NEXT_PUBLIC_SITE_URL or pass --site-url=<https://your-custom-domain>."
+    );
+    process.exitCode = 1;
+    return;
+  }
+
+  if (configPath) {
+    args.push(`--config=${configPath}`);
+  }
+
+  if (targetEnv === "test") {
+    args.push("--env=test");
+  }
+
+  console.log(`[cf:build] target=${targetEnv} siteUrl=${siteUrl}`);
+
+  const exitCode = await run("opennextjs-cloudflare", args, {
+    ...process.env,
+    SITE_URL: siteUrl,
+    NEXT_PUBLIC_SITE_URL: siteUrl,
+    NEXT_DIST_DIR: `${CF_BUILD_OUTPUT_DIR}/.next`,
+    NODE_OPTIONS: process.env.NODE_OPTIONS ?? "--max-old-space-size=6144",
+  });
+
+  if (exitCode === 0) {
+    const sourceBuildDir = path.join(process.cwd(), CF_BUILD_OUTPUT_DIR, ".open-next", ".build");
+    const compatBuildDir = path.join(process.cwd(), ".open-next", ".build");
+    if (fs.existsSync(sourceBuildDir)) {
+      fs.mkdirSync(path.dirname(compatBuildDir), { recursive: true });
+      fs.rmSync(compatBuildDir, { recursive: true, force: true });
+      fs.cpSync(sourceBuildDir, compatBuildDir, { recursive: true });
+    }
+
+    syncNestedServerFunctionBuildOutputs();
+  }
+
+  process.exitCode = exitCode;
+}
+
+main().catch((error) => {
+  console.error(error instanceof Error ? error.message : String(error));
+  process.exitCode = 1;
+});

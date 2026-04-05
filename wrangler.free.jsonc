@@ -1,0 +1,44 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "songshare-free",
+  "main": "worker.js",
+  "compatibility_date": "2026-03-14",
+  "compatibility_flags": ["nodejs_compat"],
+
+  // Free profile:
+  // - deploy to workers.dev + custom domain
+  // - no cron triggers
+  "workers_dev": true,
+  "preview_urls": true,
+  "routes": [
+    {
+      "pattern": "songshare.example.com",
+      "custom_domain": true
+    }
+  ],
+
+  "assets": {
+    "directory": ".cf-build/.open-next/assets",
+    "binding": "ASSETS"
+  },
+
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 0.2,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": false
+    }
+  },
+
+  "d1_databases": [
+    {
+      "binding": "SONGSHARE_DB",
+      "database_name": "songshare-free",
+      "database_id": "REPLACE_WITH_YOUR_CLOUDFLARE_D1_DATABASE_ID",
+      "migrations_dir": "migrations/d1"
+    }
+  ]
+}

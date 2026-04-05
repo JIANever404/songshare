@@ -1,0 +1,61 @@
+{
+  // Legacy custom-domain example kept only as reference.
+  // Fill in your own zone, Worker name, and D1 database ID before using this file.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "songshare",
+  "main": "worker.js",
+  "compatibility_date": "2026-03-14",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "preview_urls": true,
+  "routes": [
+    {
+      "pattern": "songshare.example.com",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": ".cf-build/.open-next/assets",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 0.2,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": false
+    }
+  },
+  "d1_databases": [
+    {
+      "binding": "SONGSHARE_DB",
+      "database_name": "songshare-prod",
+      "database_id": "REPLACE_WITH_YOUR_CLOUDFLARE_D1_DATABASE_ID",
+      "migrations_dir": "migrations/d1"
+    }
+  ],
+  "env": {
+    "test": {
+      "routes": [
+        {
+          "pattern": "test.songshare.example.com",
+          "custom_domain": true
+        }
+      ],
+      "d1_databases": [
+        {
+          "binding": "SONGSHARE_DB",
+          "database_name": "songshare-test",
+          "database_id": "REPLACE_WITH_YOUR_CLOUDFLARE_D1_DATABASE_ID",
+          "migrations_dir": "migrations/d1"
+        }
+      ],
+      "assets": {
+        "directory": ".cf-build/.open-next/assets",
+        "binding": "ASSETS"
+      }
+    }
+  }
+}

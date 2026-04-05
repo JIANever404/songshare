@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "535824738",
+    "name": "周杰伦",
+    "localizedName": "晴天",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/45/8a/e4/458ae484-dc8b-5683-ce04-8d2948346462/JAY.jpg/1000x1000bb.jpg",
+    "releaseYear": 2003,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%99%B4%E5%A4%A9/535824731?i=535824738"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 1,
+    "isHot": true
+  },
+  {
+    "id": "536115195",
+    "name": "周杰伦",
+    "localizedName": "七里香",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/c1/2d/29c12de6-54b4-f549-9d9f-07d8a04221ea/JAY.jpg/1000x1000bb.jpg",
+    "releaseYear": 2004,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%B8%83%E9%87%8C%E9%A6%99/536114662?i=536115195"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 2,
+    "isHot": true
+  },
+  {
+    "id": "536115199",
+    "name": "周杰伦",
+    "localizedName": "搁浅",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/c1/2d/29c12de6-54b4-f549-9d9f-07d8a04221ea/JAY.jpg/1000x1000bb.jpg",
+    "releaseYear": 2004,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%90%81%E6%B5%85/536114662?i=536115199"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 3,
+    "isHot": true
+  },
+  {
+    "id": "905226305",
+    "name": "孙燕姿",
+    "localizedName": "我怀念的",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/8e/7d/398e7d64-1877-03ab-17cb-460943429bc0/825646246939.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84/905226289?i=905226305"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 4,
+    "isHot": true
+  },
+  {
+    "id": "1134344911",
+    "name": "王力宏",
+    "localizedName": "爱错",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4a/77/be4a7730-c144-a39e-c7b6-9d26ea0ebff3/1400X1400.jpg/1000x1000bb.jpg",
+    "releaseYear": 2004,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E9%94%99/1134344345?i=1134344911"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 5,
+    "isHot": true
+  },
+  {
+    "id": "1752810526",
+    "name": "李荣浩",
+    "localizedName": "恋人",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/96/d6/4d96d6ea-0181-fd91-9fa0-6f102bd5c7dc/196872225358.jpg/1000x1000bb.jpg",
+    "releaseYear": 2024,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%81%8B%E4%BA%BA/1752810525?i=1752810526"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 6,
+    "isHot": true
+  },
+  {
+    "id": "1717030438",
+    "name": "邓紫棋",
+    "localizedName": "唯一",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/26/4d/41264d25-c463-6870-0462-4556e91e17e5/196871647434.jpg/1000x1000bb.jpg",
+    "releaseYear": 2023,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%94%AF%E4%B8%80/1717030435?i=1717030438"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 7,
+    "isHot": true
+  },
+  {
+    "id": "1875146815",
+    "name": "Hearts2Hearts",
+    "localizedName": "RUDE!",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b9/fb/78b9fb30-169a-eab0-38e9-8df725f8f2d6/888735954603.png/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "K-Pop",
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/rude/1875146814?i=1875146815"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 8,
+    "isHot": true
+  },
+  {
+    "id": "1579903651",
+    "name": "方大同",
+    "localizedName": "特别的人",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/d7/2a/35d72a0a-7e0c-fc2d-b2da-4bd030219997/190296501159.jpg/1000x1000bb.jpg",
+    "releaseYear": 2014,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA/1579903639?i=1579903651"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 9,
+    "isHot": true
+  },
+  {
+    "id": "905206660",
+    "name": "陶喆",
+    "localizedName": "爱我还是他",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/ad/e7/feade7c8-826b-0379-fbf4-e59606db8e4c/825646245406.jpg/1000x1000bb.jpg",
+    "releaseYear": 2005,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96/905206649?i=905206660"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 10,
+    "isHot": true
+  },
+  {
+    "id": "1868862384",
+    "name": "防弹少年团",
+    "localizedName": "SWIM",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "国际流行",
+      "音乐",
+      "K-Pop"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/swim/1868862375?i=1868862384"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 11,
+    "isHot": false
+  },
+  {
+    "id": "298837675",
+    "name": "孙燕姿",
+    "localizedName": "开始懂了",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/0f/99/a7/mzi.zsimusvk.jpg/1000x1000bb.jpg",
+    "releaseYear": 2000,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%BC%80%E5%A7%8B%E6%87%82%E4%BA%86/298837646?i=298837675"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 12,
+    "isHot": false
+  },
+  {
+    "id": "347295290",
+    "name": "杨丞琳",
+    "localizedName": "雨爱",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/e0/e5/mzi.mzfgcpgj.jpg/1000x1000bb.jpg",
+    "releaseYear": 2009,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%9B%A8%E7%88%B1/347295255?i=347295290"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 13,
+    "isHot": false
+  },
+  {
+    "id": "1443352465",
+    "name": "陈奕迅",
+    "localizedName": "爱情转移",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/cb/d6/27cbd6b4-c991-cd95-49e3-b6019462ff97/00602517338845.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E6%83%85%E8%BD%AC%E7%A7%BB/1443352354?i=1443352465"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 14,
+    "isHot": false
+  },
+  {
+    "id": "744963040",
+    "name": "田馥甄",
+    "localizedName": "你就不要想起我",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/12/31/75/123175fd-d416-da11-ea2f-39a5b113c3f8/dj.zyncqluo.jpg/1000x1000bb.jpg",
+    "releaseYear": 2013,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%BD%A0%E5%B0%B1%E4%B8%8D%E8%A6%81%E6%83%B3%E8%B5%B7%E6%88%91/744962939?i=744963040"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 15,
+    "isHot": false
+  },
+  {
+    "id": "1788007696",
+    "name": "林俊杰",
+    "localizedName": "可惜没如果",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/1000x1000bb.jpg",
+    "releaseYear": 2014,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%8F%AF%E6%83%9C%E6%B2%A1%E5%A6%82%E6%9E%9C/1788007687?i=1788007696"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 16,
+    "isHot": false
+  },
+  {
+    "id": "1869229365",
+    "name": "蔡诗芸",
+    "localizedName": "雨过后的风景",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/1c/ef/601cefd9-79e0-e9f1-29ff-6d396601bfb5/3614979000106.jpg/1000x1000bb.jpg",
+    "releaseYear": 2012,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%9B%A8%E8%BF%87%E5%90%8E%E7%9A%84%E9%A3%8E%E6%99%AF/1869229214?i=1869229365"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 17,
+    "isHot": false
+  },
+  {
+    "id": "280911996",
+    "name": "孙燕姿",
+    "localizedName": "遇见",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/15/ca/82/mzi.fsgrhyyg.jpg/1000x1000bb.jpg",
+    "releaseYear": 2003,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%81%87%E8%A7%81/280911988?i=280911996"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 18,
+    "isHot": false
+  },
+  {
+    "id": "220365871",
+    "name": "方大同",
+    "localizedName": "爱爱爱",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/d0/e5/mzi.kdgffvqb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2006,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E7%88%B1%E7%88%B1/220365864?i=220365871"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 19,
+    "isHot": false
+  },
+  {
+    "id": "1072339996",
+    "name": "李荣浩",
+    "localizedName": "不将就 (电影《何以笙箫默》片尾曲)",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/17/4a/4c174aec-80a7-c039-54cd-4be73cb090d3/dj.fagjndon.jpg/1000x1000bb.jpg",
+    "releaseYear": 2015,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%B8%8D%E5%B0%86%E5%B0%B1-%E7%94%B5%E5%BD%B1-%E4%BD%95%E4%BB%A5%E7%AC%99%E7%AE%AB%E9%BB%98-%E7%89%87%E5%B0%BE%E6%9B%B2/1072339647?i=1072339996"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 20,
+    "isHot": false
+  },
+  {
+    "id": "542922095",
+    "name": "陈奕迅",
+    "localizedName": "十年",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/e6/66/56e6661d-e570-782f-fbc8-e7b12e38f1a7/EEG3035V1-_-.jpg/1000x1000bb.jpg",
+    "releaseYear": 2003,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%8D%81%E5%B9%B4/542922079?i=542922095"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 21,
+    "isHot": false
+  },
+  {
+    "id": "1757799717",
+    "name": "Karencici",
+    "localizedName": "爱你但说不出口",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/54/84/c954844d-079a-4b58-2d5b-8f7877ba979e/5021732443519.jpg/1000x1000bb.jpg",
+    "releaseYear": 2024,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E4%BD%A0%E4%BD%86%E8%AF%B4%E4%B8%8D%E5%87%BA%E5%8F%A3/1757799716?i=1757799717"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 22,
+    "isHot": false
+  },
+  {
+    "id": "1421693331",
+    "name": "陈粒",
+    "localizedName": "小半",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/f8/ab/aff8abed-e8f5-1c4b-67a7-860eceb15c59/cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2016,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%B0%8F%E5%8D%8A/1421692907?i=1421693331"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 23,
+    "isHot": false
+  },
+  {
+    "id": "544934807",
+    "name": "邓紫棋",
+    "localizedName": "泡沫",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/0e/bb/1f0ebbc8-0c84-dd8a-579e-22e5cbff10a2/Cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2012,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%B3%A1%E6%B2%AB/544934803?i=544934807"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 24,
+    "isHot": false
+  },
+  {
+    "id": "547173705",
+    "name": "林宥嘉",
+    "localizedName": "说谎",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/e5/9b/57e59bd6-3564-e4c4-1add-e3dbbf4d8ab1/asset.jpg/1000x1000bb.jpg",
+    "releaseYear": 2009,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E8%AF%B4%E8%B0%8E/547158777?i=547173705"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 25,
+    "isHot": false
+  },
+  {
+    "id": "1443352455",
+    "name": "陈奕迅",
+    "localizedName": "淘汰",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/cb/d6/27cbd6b4-c991-cd95-49e3-b6019462ff97/00602517338845.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%B7%98%E6%B1%B0/1443352354?i=1443352455"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 26,
+    "isHot": false
+  },
+  {
+    "id": "1528146380",
+    "name": "王力宏",
+    "localizedName": "你不知道的事",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/94/01/3e94013b-17f0-09e9-69ce-4ab94e1507da/18_Material_arts.png/1000x1000bb.jpg",
+    "releaseYear": 2010,
+    "genres": [
+      "国际流行",
+      "音乐"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/1528146376?i=1528146380"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 27,
+    "isHot": false
+  },
+  {
+    "id": "1871400641",
+    "name": "林俊杰",
+    "localizedName": "关键词",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/1000x1000bb.jpg",
+    "releaseYear": 2015,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%85%B3%E9%94%AE%E8%AF%8D/1871400633?i=1871400641"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 28,
+    "isHot": false
+  },
+  {
+    "id": "1071753628",
+    "name": "林俊杰",
+    "localizedName": "江南",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9b/98/eb/9b98ebae-69b1-8009-678c-65e94124e0a8/dj.cqtiyqmo.jpg/1000x1000bb.jpg",
+    "releaseYear": 2004,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%B1%9F%E5%8D%97/1071753622?i=1071753628"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 29,
+    "isHot": false
+  },
+  {
+    "id": "1053567928",
+    "name": "邓紫棋",
+    "localizedName": "多远都要在一起",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/bb/c7/55bbc782-299e-7f24-bc4a-ae129e6d8030/mzm.rpqttxch.jpg/1000x1000bb.jpg",
+    "releaseYear": 2015,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%A4%9A%E8%BF%9C%E9%83%BD%E8%A6%81%E5%9C%A8%E4%B8%80%E8%B5%B7/1053567923?i=1053567928"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 30,
+    "isHot": false
+  },
+  {
+    "id": "1416149929",
+    "name": "陶喆",
+    "localizedName": "飞机场的10:30",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/bb/bd/ddbbbda1-9408-72b2-4c0b-943e648be6c1/190295574086.jpg/1000x1000bb.jpg",
+    "releaseYear": 1997,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%A3%9E%E6%9C%BA%E5%9C%BA%E7%9A%8410-30/1416149926?i=1416149929"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 31,
+    "isHot": false
+  },
+  {
+    "id": "1134353955",
+    "name": "王力宏",
+    "localizedName": "大城小爱",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/82/88/f98288eb-ea32-6c8c-7919-357c31a4b437/1400X1400.jpg/1000x1000bb.jpg",
+    "releaseYear": 2005,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%A4%A7%E5%9F%8E%E5%B0%8F%E7%88%B1/1134353291?i=1134353955"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 32,
+    "isHot": false
+  },
+  {
+    "id": "672641999",
+    "name": "蔡健雅",
+    "localizedName": "红色高跟鞋",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/f4/c9/f3f4c9cc-1af9-8595-0834-63c719b4cb92/asset.jpg/1000x1000bb.jpg",
+    "releaseYear": 2009,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%BA%A2%E8%89%B2%E9%AB%98%E8%B7%9F%E9%9E%8B/672641879?i=672641999"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 33,
+    "isHot": false
+  },
+  {
+    "id": "1480230401",
+    "name": "周杰伦 & 五月天 阿信",
+    "localizedName": "说好不哭",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/61/e0/8961e064-110e-e5fc-e531-3719bc4224c0/wont_cry.jpg/1000x1000bb.jpg",
+    "releaseYear": 2019,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%93%AD/1480230399?i=1480230401"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 34,
+    "isHot": false
+  },
+  {
+    "id": "577983297",
+    "name": "方大同",
+    "localizedName": "麦恩莉",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/91/41/8c/91418cce-4b5b-a7a7-cf54-858af87966e3/dj.munrszcb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2012,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%BA%A6%E6%81%A9%E8%8E%89/577983280?i=577983297"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 35,
+    "isHot": false
+  },
+  {
+    "id": "1438735302",
+    "name": "李荣浩",
+    "localizedName": "耳朵",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/7d/cc/d77dcc6e-ff86-aa4e-c0b0-39eb97485258/190295530624.jpg/1000x1000bb.jpg",
+    "releaseYear": 2018,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E8%80%B3%E6%9C%B5/1438734966?i=1438735302"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 36,
+    "isHot": false
+  },
+  {
+    "id": "1834199249",
+    "name": "张惠妹",
+    "localizedName": "连名带姓",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/ea/32/4aea3283-2bcf-c075-ad2d-c48bf6e19dcd/cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2017,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93/1834198554?i=1834199249"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 37,
+    "isHot": false
+  },
+  {
+    "id": "1791923800",
+    "name": "王菲",
+    "localizedName": "世界赠予我的",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/74/0b/75740b1c-8ecb-cae5-2f29-1d192376044e/704537426011.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%B8%96%E7%95%8C%E8%B5%A0%E4%BA%88%E6%88%91%E7%9A%84/1791923799?i=1791923800"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 38,
+    "isHot": false
+  },
+  {
+    "id": "152197590",
+    "name": "陈绮贞",
+    "localizedName": "太聪明",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/a2/21/3ca22123-14d6-57f4-9e52-aa4573a05b07/mzm.clkcarof.jpg/1000x1000bb.jpg",
+    "releaseYear": 2002,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%A4%AA%E8%81%AA%E6%98%8E/152197399?i=152197590"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 39,
+    "isHot": false
+  },
+  {
+    "id": "1871174419",
+    "name": "KiiiKiii",
+    "localizedName": "404 (New Era)",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/f4/ea/d9f4ea2f-ea6d-485d-d3b6-9d8737dad49e/199806885123.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "K-Pop",
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/404-new-era/1871174414?i=1871174419"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 40,
+    "isHot": false
+  },
+  {
+    "id": "1692291089",
+    "name": "梁静茹",
+    "localizedName": "勇气",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/d7/93/55d793f9-1cbd-51d2-780a-b14b085111d0/4710149701770_cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2000,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%8B%87%E6%B0%94/1692291088?i=1692291089"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 41,
+    "isHot": false
+  },
+  {
+    "id": "1868862376",
+    "name": "防弹少年团",
+    "localizedName": "Body to Body",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "国际流行",
+      "音乐",
+      "K-Pop"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/body-to-body/1868862375?i=1868862376"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 42,
+    "isHot": false
+  },
+  {
+    "id": "1097016179",
+    "name": "梁静茹",
+    "localizedName": "会呼吸的痛",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/6c/9f/c46c9ffa-dffd-37d9-8bd7-129b24f880ba/BD0009-_-_J_ADORE.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%BC%9A%E5%91%BC%E5%90%B8%E7%9A%84%E7%97%9B/1097016060?i=1097016179"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 43,
+    "isHot": false
+  },
+  {
+    "id": "535391947",
+    "name": "郭静",
+    "localizedName": "爱情讯息",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/49/46/054946ac-9e38-f5b0-9778-cbcd4d844687/4717398702336.jpg/1000x1000bb.jpg",
+    "releaseYear": 2008,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E7%88%B1%E6%83%85%E8%AE%AF%E6%81%AF/535391943?i=535391947"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 44,
+    "isHot": false
+  },
+  {
+    "id": "905206479",
+    "name": "陶喆",
+    "localizedName": "普通朋友",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/77/fc/d077fcf8-6a17-e7ea-6c91-6cf40ad39d81/825646245383.jpg/1000x1000bb.jpg",
+    "releaseYear": 1999,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%99%AE%E9%80%9A%E6%9C%8B%E5%8F%8B/905206471?i=905206479"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 45,
+    "isHot": false
+  },
+  {
+    "id": "1443638095",
+    "name": "郭顶",
+    "localizedName": "水星记",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/55/95/4b5595a2-5d2c-38c7-8179-0a27e5ba58a1/00602488600859.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2016,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%B0%B4%E6%98%9F%E8%AE%B0/1443637757?i=1443638095"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 46,
+    "isHot": false
+  },
+  {
+    "id": "1845190340",
+    "name": "Charlie Puth & Utada",
+    "localizedName": "Home",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e0/a1/48e0a157-0f2a-28fc-a864-b274409703d8/075679599575.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "国际流行",
+      "音乐"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/home/1845189970?i=1845190340"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 47,
+    "isHot": false
+  },
+  {
+    "id": "1041127302",
+    "name": "Charlie Puth",
+    "localizedName": "We Don’t Talk Anymore (feat. Selena Gomez)",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/24/6d/68246d01-179c-72e2-6caa-6490c86a4e79/075679920836.jpg/1000x1000bb.jpg",
+    "releaseYear": 2016,
+    "genres": [
+      "国际流行",
+      "音乐"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/we-dont-talk-anymore-feat-selena-gomez/1041127262?i=1041127302"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 48,
+    "isHot": false
+  },
+  {
+    "id": "1722205331",
+    "name": "莫文蔚",
+    "localizedName": "忽然之间",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/22/39/eb223900-0182-c49c-6c82-ee342cbd6c22/4710149707703_cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 1999,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%BF%BD%E7%84%B6%E4%B9%8B%E9%97%B4/1722205323?i=1722205331"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 49,
+    "isHot": false
+  },
+  {
+    "id": "1888707290",
+    "name": "Kanye West & Andre Troutman",
+    "localizedName": "ALL THE LOVE",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/38/d1/4b38d146-381d-ace2-73df-24074576e62b/656465138828_cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "嘻哈/说唱",
+      "音乐"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/all-the-love/1888707282?i=1888707290"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 50,
+    "isHot": false
+  },
+  {
+    "id": "1864847118",
+    "name": "Top Barry & INDEcompany",
+    "localizedName": "一半一半",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/ee/73/caee73b1-5ff9-b068-d428-058c1ea535e0/cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "音乐",
+      "国际流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E4%B8%80%E5%8D%8A%E4%B8%80%E5%8D%8A/1864847111?i=1864847118"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 51,
+    "isHot": false
+  },
+  {
+    "id": "536285258",
+    "name": "周杰伦",
+    "localizedName": "听妈妈的话",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6a/a3/8d/6aa38da9-3fc1-427c-59a7-fcd0cf21832d/JAY.jpg/1000x1000bb.jpg",
+    "releaseYear": 2006,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D/536285027?i=536285258&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 52,
+    "isHot": false
+  },
+  {
+    "id": "280798617",
+    "name": "孙燕姿",
+    "localizedName": "雨天",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/8f/21/mzi.buxkpipq.jpg/1000x1000bb.jpg",
+    "releaseYear": 2006,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E9%9B%A8%E5%A4%A9/280798610?i=280798617&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 53,
+    "isHot": false
+  },
+  {
+    "id": "1691044822",
+    "name": "王力宏",
+    "localizedName": "我们的歌",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/d1/bb/d6d1bb74-e2d3-743e-f514-5668390c4d67/gaibianziji_fengmian.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C/1691044816?i=1691044822&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 54,
+    "isHot": false
+  },
+  {
+    "id": "1743353794",
+    "name": "李荣浩",
+    "localizedName": "模特",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/b2/89/87b289ae-5728-6133-88a8-2a2658a535aa/196872064728.jpg/1000x1000bb.jpg",
+    "releaseYear": 2013,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E6%A8%A1%E7%89%B9/1743353783?i=1743353794&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 55,
+    "isHot": false
+  },
+  {
+    "id": "1422581998",
+    "name": "邓紫棋",
+    "localizedName": "倒数",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/0a/ed/550aedc0-c4dd-710d-f500-7fb682646ea0/192562834923.jpg/1000x1000bb.jpg",
+    "releaseYear": 2018,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E5%80%92%E6%95%B0/1422581993?i=1422581998&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 56,
+    "isHot": false
+  },
+  {
+    "id": "1841828520",
+    "name": "Hearts2Hearts",
+    "localizedName": "FOCUS",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/26/ea/df26eafa-06e8-8bd0-4180-5ba91fb91c39/888735953859.png/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "K-Pop"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/focus/1841828519?i=1841828520&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 57,
+    "isHot": false
+  },
+  {
+    "id": "272875200",
+    "name": "方大同",
+    "localizedName": "Love Song",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c3/35/6c/mzi.slgaieio.jpg/1000x1000bb.jpg",
+    "releaseYear": 2007,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/love-song/272875165?i=272875200&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 58,
+    "isHot": false
+  },
+  {
+    "id": "914664938",
+    "name": "陶喆",
+    "localizedName": "蝴蝶",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/7a/97/057a9723-2dbd-873b-81e0-5090879b2942/825646245352.jpg/1000x1000bb.jpg",
+    "releaseYear": 2002,
+    "genres": [
+      "国语流行"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/%E8%9D%B4%E8%9D%B6/914664926?i=914664938&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 59,
+    "isHot": false
+  },
+  {
+    "id": "1598660938",
+    "name": "防弹少年团",
+    "localizedName": "FAKE LOVE",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/1000x1000bb.jpg",
+    "releaseYear": 2018,
+    "genres": [
+      "K-Pop"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/cn/album/fake-love/1598660934?i=1598660938&uo=4"
+    },
+    "chartStorefront": "cn",
+    "chartRank": 60,
+    "isHot": false
+  },
+  {
+    "id": "1887246591",
+    "name": "周杰伦",
+    "localizedName": "那天下雨了",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/31/e9/4731e94b-a04e-87fd-e7e4-6ab6fd11e17b/4000x4000_fa.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "華語流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86/1887246588?i=1887246591"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 61,
+    "isHot": true
+  },
+  {
+    "id": "1887246589",
+    "name": "周杰伦",
+    "localizedName": "太阳之子",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/31/e9/4731e94b-a04e-87fd-e7e4-6ab6fd11e17b/4000x4000_fa.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "華語流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E5%A4%AA%E9%99%BD%E4%B9%8B%E5%AD%90/1887246588?i=1887246589"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 62,
+    "isHot": true
+  },
+  {
+    "id": "1887247016",
+    "name": "周杰伦",
+    "localizedName": "I Do",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/31/e9/4731e94b-a04e-87fd-e7e4-6ab6fd11e17b/4000x4000_fa.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "華語流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/i-do/1887246588?i=1887247016"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 63,
+    "isHot": false
+  },
+  {
+    "id": "1820264150",
+    "name": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+    "localizedName": "Golden",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "韓國流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/golden/1820264137?i=1820264150"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 64,
+    "isHot": false
+  },
+  {
+    "id": "1839368232",
+    "name": "卢广仲",
+    "localizedName": "太阳与地球",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/85/8f/ee858f39-7c88-5390-4061-6f2de8c43279/4711508138732.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "華語流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E5%A4%AA%E9%99%BD%E8%88%87%E5%9C%B0%E7%90%83/1839368226?i=1839368232"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 65,
+    "isHot": false
+  },
+  {
+    "id": "1874801993",
+    "name": "林俊杰",
+    "localizedName": "我对缘分小心翼翼 (剧集《逐玉》主题曲)",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/bb/8d/c6bb8d0c-b306-798d-919c-c2bcf0164660/4711720284392_new2.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "音樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E6%88%91%E5%B0%8D%E7%B7%A3%E5%88%86%E5%B0%8F%E5%BF%83%E7%BF%BC%E7%BF%BC-%E5%8A%87%E9%9B%86-%E9%80%90%E7%8E%89-%E4%B8%BB%E9%A1%8C%E6%9B%B2/1874801991?i=1874801993"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 66,
+    "isHot": false
+  },
+  {
+    "id": "1624001320",
+    "name": "周杰伦",
+    "localizedName": "兰亭序",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1b/63/9e/1b639e5b-f8ca-a6e1-8612-6396bc9ff0eb/4711448407424.jpg/1000x1000bb.jpg",
+    "releaseYear": 2008,
+    "genres": [
+      "華語流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E8%98%AD%E4%BA%AD%E5%BA%8F/1624000713?i=1624001320&uo=4"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 67,
+    "isHot": false
+  },
+  {
+    "id": "1820264154",
+    "name": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+    "localizedName": "Takedown",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "韓國流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/takedown/1820264137?i=1820264154&uo=4"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 68,
+    "isHot": false
+  },
+  {
+    "id": "1342141668",
+    "name": "卢广仲",
+    "localizedName": "几分之几 (电影《花甲大人转男孩》主题曲)",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/4e/36/5d4e360a-10c8-f695-858b-47cfa9ec5969/4713108186427.jpg/1000x1000bb.jpg",
+    "releaseYear": 2018,
+    "genres": [
+      "華語流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E5%B9%BE%E5%88%86%E4%B9%8B%E5%B9%BE-%E9%9B%BB%E5%BD%B1-%E8%8A%B1%E7%94%B2%E5%A4%A7%E4%BA%BA%E8%BD%89%E7%94%B7%E5%AD%A9-%E4%B8%BB%E9%A1%8C%E6%9B%B2/1342141662?i=1342141668&uo=4"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 69,
+    "isHot": false
+  },
+  {
+    "id": "1871400637",
+    "name": "林俊杰",
+    "localizedName": "不为谁而作的歌",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d8/71/3dd8711e-41ec-29ee-72b6-0a2a480031d0/4711720281483.jpg/1000x1000bb.jpg",
+    "releaseYear": 2015,
+    "genres": [
+      "華語流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/tw/album/%E4%B8%8D%E7%82%BA%E8%AA%B0%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C/1871400633?i=1871400637&uo=4"
+    },
+    "chartStorefront": "tw",
+    "chartRank": 70,
+    "isHot": false
+  },
+  {
+    "id": "1816674595",
+    "name": "Gareth.T",
+    "localizedName": "用背脊唱情歌",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/44/d1/f844d1ca-9db5-e05a-21c2-f1619daa4eea/5021732818638.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E7%94%A8%E8%83%8C%E8%84%8A%E5%94%B1%E6%83%85%E6%AD%8C/1816674588?i=1816674595"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 71,
+    "isHot": true
+  },
+  {
+    "id": "1784959357",
+    "name": "MC 张天赋",
+    "localizedName": "说谎者",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/ea/3a/33ea3ace-3c37-002d-efb6-c08af9e172c7/5021732589972.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E8%AA%AA%E8%AC%8A%E8%80%85/1784959356?i=1784959357"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 72,
+    "isHot": true
+  },
+  {
+    "id": "1843845244",
+    "name": "晚安莉莉",
+    "localizedName": "我看见今晚的月色很美,你呢?",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a8/2c/18a82ccf-d4f9-386e-b1a6-4cd50b45e0f0/376310586696.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E6%88%91%E7%9C%8B%E8%A6%8B%E4%BB%8A%E6%99%9A%E7%9A%84%E6%9C%88%E8%89%B2%E5%BE%88%E7%BE%8E-%E4%BD%A0%E5%91%A2/1843845239?i=1843845244"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 73,
+    "isHot": false
+  },
+  {
+    "id": "1883973607",
+    "name": "洪嘉豪",
+    "localizedName": "穿波鞋的恶魔",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/4c/a2/464ca29a-5a3c-16cd-629a-12d7aca714a3/5026854875200.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E7%A9%BF%E6%B3%A2%E9%9E%8B%E7%9A%84%E6%83%A1%E9%AD%94/1883973469?i=1883973607"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 74,
+    "isHot": false
+  },
+  {
+    "id": "1883630672",
+    "name": "Gareth.T",
+    "localizedName": "⁠我很小朋友",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/7d/4c/eb7d4c4b-7280-8cc7-59fc-cce786d22e65/5026854799131.jpg/1000x1000bb.jpg",
+    "releaseYear": 2023,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E6%88%91%E5%BE%88%E5%B0%8F%E6%9C%8B%E5%8F%8B/1883630666?i=1883630672"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 75,
+    "isHot": false
+  },
+  {
+    "id": "1804348174",
+    "name": "MC 张天赋",
+    "localizedName": "怀疑人生",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/2f/57/c72f579a-67c6-f77b-a2e5-78918eca3bad/5021732755124.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E6%87%B7%E7%96%91%E4%BA%BA%E7%94%9F/1804347852?i=1804348174"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 76,
+    "isHot": false
+  },
+  {
+    "id": "1718045819",
+    "name": "Gareth.T",
+    "localizedName": "紧急联络人",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/4f/7a/294f7a2e-2391-3c16-b257-d0176ae0ae73/5054197916472.jpg/1000x1000bb.jpg",
+    "releaseYear": 2023,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E7%B7%8A%E6%80%A5%E8%81%AF%E7%B5%A1%E4%BA%BA/1718045810?i=1718045819"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 77,
+    "isHot": false
+  },
+  {
+    "id": "1722428083",
+    "name": "洪嘉豪",
+    "localizedName": "黑玻璃",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/2d/d6/462dd6ac-159e-f621-f836-5b34ec2b5b69/5054197946042.jpg/1000x1000bb.jpg",
+    "releaseYear": 2024,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E9%BB%91%E7%8E%BB%E7%92%83/1722428072?i=1722428083"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 78,
+    "isHot": false
+  },
+  {
+    "id": "1590828011",
+    "name": "MC 张天赋",
+    "localizedName": "记忆棉",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/ad/d1/42add162-3a93-3436-7c74-113e4dfc8e64/190296392696.jpg/1000x1000bb.jpg",
+    "releaseYear": 2021,
+    "genres": [
+      "廣東歌/香港流行樂",
+      "音樂",
+      "流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E8%A8%98%E6%86%B6%E6%A3%89/1590828009?i=1590828011"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 79,
+    "isHot": false
+  },
+  {
+    "id": "1883630995",
+    "name": "Gareth.T",
+    "localizedName": "早到的u",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/7d/4c/eb7d4c4b-7280-8cc7-59fc-cce786d22e65/5026854799131.jpg/1000x1000bb.jpg",
+    "releaseYear": 2023,
+    "genres": [
+      "國語流行樂"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/hk/album/%E6%97%A9%E5%88%B0%E7%9A%84u/1883630666?i=1883630995&uo=4"
+    },
+    "chartStorefront": "hk",
+    "chartRank": 80,
+    "isHot": false
+  },
+  {
+    "id": "1844932150",
+    "name": "Ella Langley",
+    "localizedName": "Choosin' Texas",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "Country",
+      "Music"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+    },
+    "chartStorefront": "us",
+    "chartRank": 81,
+    "isHot": true
+  },
+  {
+    "id": "1860420901",
+    "name": "Pooh Shiesty",
+    "localizedName": "FDO",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/dc/12/7cdc1290-874c-6560-ccff-71b6dc0c9227/075679592934.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "Hip-Hop/Rap",
+      "Music"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/us/album/fdo/1860420898?i=1860420901"
+    },
+    "chartStorefront": "us",
+    "chartRank": 82,
+    "isHot": true
+  },
+  {
+    "id": "1869436845",
+    "name": "Ella Langley",
+    "localizedName": "Be Her",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "Country",
+      "Music"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845"
+    },
+    "chartStorefront": "us",
+    "chartRank": 83,
+    "isHot": false
+  },
+  {
+    "id": "1871258330",
+    "name": "Don Toliver",
+    "localizedName": "E85",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/e5/c6/e8e5c690-a958-622e-eb62-0dce6059300e/075679599360.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "Hip-Hop/Rap",
+      "Music"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/us/album/e85/1871258329?i=1871258330"
+    },
+    "chartStorefront": "us",
+    "chartRank": 84,
+    "isHot": false
+  },
+  {
+    "id": "1867034427",
+    "name": "Bella Kay",
+    "localizedName": "iloveitiloveitiloveit",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/71/ab12714b-1572-c7b0-27ff-2dfa3c860e6f/075679590756.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "Alternative",
+      "Music"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/us/album/iloveitiloveitiloveit/1867034426?i=1867034427"
+    },
+    "chartStorefront": "us",
+    "chartRank": 85,
+    "isHot": false
+  },
+  {
+    "id": "1869537742",
+    "name": "M!LK",
+    "localizedName": "爆裂愛してる",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "J-Pop",
+      "ミュージック"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/jp/album/%E7%88%86%E8%A3%82%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B/1869537741?i=1869537742"
+    },
+    "chartStorefront": "jp",
+    "chartRank": 86,
+    "isHot": true
+  },
+  {
+    "id": "1837658529",
+    "name": "米津玄師",
+    "localizedName": "IRIS OUT",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "J-Pop",
+      "ミュージック"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529"
+    },
+    "chartStorefront": "jp",
+    "chartRank": 87,
+    "isHot": true
+  },
+  {
+    "id": "1846753946",
+    "name": "M!LK",
+    "localizedName": "好きすぎて滅!",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/1000x1000bb.jpg",
+    "releaseYear": 2025,
+    "genres": [
+      "J-Pop",
+      "ミュージック"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946"
+    },
+    "chartStorefront": "jp",
+    "chartRank": 88,
+    "isHot": false
+  },
+  {
+    "id": "1739088799",
+    "name": "Mrs. GREEN APPLE",
+    "localizedName": "ライラック",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/1000x1000bb.jpg",
+    "releaseYear": 2024,
+    "genres": [
+      "ロック",
+      "ミュージック"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799"
+    },
+    "chartStorefront": "jp",
+    "chartRank": 89,
+    "isHot": false
+  },
+  {
+    "id": "1860538548",
+    "name": "King Gnu",
+    "localizedName": "AIZO",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8a/0b/9f8a0bc1-e6ee-5873-4fc9-9a75b0d58e2a/4547366794816.jpg/1000x1000bb.jpg",
+    "releaseYear": 2026,
+    "genres": [
+      "オルタナティブ",
+      "ミュージック"
+    ],
+    "storeUrls": {
+      "apple": "https://music.apple.com/jp/album/aizo/1860538546?i=1860538548"
+    },
+    "chartStorefront": "jp",
+    "chartRank": 90,
+    "isHot": false
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "name": "songshare",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev --webpack -H 0.0.0.0",
+    "dev:local": "NEXT_PUBLIC_SITE_URL=http://localhost:3002 SITE_URL=http://localhost:3002 next dev --webpack -H 0.0.0.0 -p 3002",
+    "dev:test": "node -e \"require('fs').rmSync('.next', { recursive: true, force: true })\" && next dev --webpack -H 0.0.0.0",
+    "recommendations:snapshot": "node scripts/generate-song-recommendation-snapshot.mjs",
+    "build": "npm run recommendations:snapshot && next build",
+    "build:cf": "node scripts/build-next-cf.mjs",
+    "start": "next start",
+    "cf:verify-access": "node scripts/verify-cloudflare-access.mjs",
+    "d1:migrate:local": "node scripts/run-wrangler-with-sql-token.mjs d1 migrations apply songshare-free --local --config=wrangler.free.jsonc",
+    "d1:migrate:remote": "node scripts/run-wrangler-with-sql-token.mjs d1 migrations apply songshare-free --remote --config=wrangler.free.jsonc",
+    "d1:migrate:local:free": "npm run d1:migrate:local",
+    "d1:migrate:remote:free": "npm run d1:migrate:remote",
+    "cf:build": "node scripts/run-opennext-cloudflare-build.mjs --profile=free --config=wrangler.free.jsonc",
+    "cf:build:free": "npm run cf:build",
+    "cf:preview": "npm run cf:build && wrangler dev --config=wrangler.free.jsonc",
+    "cf:preview:free": "npm run cf:preview",
+    "cf:deploy": "npm run cf:build && opennextjs-cloudflare deploy --config=wrangler.free.jsonc",
+    "cf:deploy:free": "npm run cf:deploy",
+    "cf:sync-secrets": "node scripts/sync-cloudflare-secrets.mjs --profile=free",
+    "lint": "eslint .",
+    "test:e2e": "node node_modules/@playwright/test/cli.js test"
+  },
+  "dependencies": {
+    "@dnd-kit/dom": "^0.3.2",
+    "@dnd-kit/helpers": "^0.3.2",
+    "@dnd-kit/react": "^0.3.2",
+    "@opennextjs/cloudflare": "1.17.1",
+    "@radix-ui/react-dialog": "^1.1.6",
+    "@radix-ui/react-slot": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.477.0",
+    "next": "16.1.6",
+    "opencc-js": "^1.0.5",
+    "qrcode": "^1.5.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^20",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.1.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5",
+    "wrangler": "4.73.0"
+  }
+}
