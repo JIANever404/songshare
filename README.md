@@ -46,7 +46,7 @@ flowchart TD
 - 运行平台：Cloudflare Workers + OpenNext
 - 存储：Cloudflare D1
 - 数据来源：iTunes / Apple Music 相关公开接口
-- 核心卖点：Apple Music 原曲直听，不依赖任何第三方音乐 App
+- 核心卖点：Apple Music 原曲试听，不依赖任何第三方音乐 App
 - 构建与部署：Wrangler、GitHub Actions
 
 ## 部署说明
